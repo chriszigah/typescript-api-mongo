@@ -1,1 +1,1 @@
-# typescrit-api-mongo
+# typescript-api-mongo
